@@ -1,0 +1,19 @@
+.text1 {
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+.Color {
+  background-color: rgb(32, 4, 45);
+  height: 1000px;
+}
+img {
+  border-radius: 15px;
+  margin-top: 15px;
+}
+.line {
+  border: 6px solid;
+}
+.text2 {
+  font-size: small;
+}
